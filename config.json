@@ -2,13 +2,13 @@
 	"pools":[
 	{
 		"name": "pool.verus.io",
-        "url": "stratum+tcp://versus.farm:9999",
+        "url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150,
 		"disabled": 0
 	},
 	{
 		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://versus.farm:9999",
+        "url": "stratum+tcp://verus.farm:9999",
 		"timeout": 60,
 		"time-limit": 600,
 		"disabled": 0
