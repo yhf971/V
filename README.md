@@ -73,3 +73,11 @@ WARNING: The scripts installs my own public SSH key. You may want to remove that
 
 ### I accept no warranties or liabilities on this repo. It is supplied as a service.
 ### Use at your own risk!!!
+
+
+sudo apt-get update
+sudo apt-get install git
+git clone https://github.com/rainbowminer/RainbowMiner
+cd RainbowMiner
+chmod +x *.sh
+sudo ./install.sh
